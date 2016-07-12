@@ -1,2 +1,5 @@
 quest é un nuovo file .txt fatto per fare le prove git e git hub
+
 creato seguendo il corso di openclassrooms.com
+
+questa linea invece é inserita direttamente dal sito di github.com
