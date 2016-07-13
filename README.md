@@ -6,3 +6,4 @@ pour la persone que me corrige, desolé j'ai fait un peux de melange entre franc
 bye bye
 
 piccola modifica per avanzare nel apprendimento di git / github.com
+ho sspostato la cartella locale da reposGit a quella specifica della formazione git di ocr. vediamo che succede
